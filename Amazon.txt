@@ -1,0 +1,177 @@
+two sum
+add two numbers
+longest substring without repeating characters
+lru chache
+number of islands
+valid parentheses
+longest palindromic substring
+copy list with random pointer
+3sum
+trapping rain water
+best time to buy and sell stock
+merge two sorted lists
+linked list cycle
+reverse linked list
+merge k sorted lists
+product of array except self
+jewels and stones
+letter combinations of phone number
+word break
+serialize and deserialize binary tree
+group anagrams
+string to integer(atoi)
+sliding window maximum
+word ladder
+insert delete get random o(1)
+kth largest element in an array
+lowest common ancestor of a binary tree
+count primes
+min stack
+encode and decode tiny url
+word ladder 2
+rotate image
+search in 2d matrix 2
+first unique character in a string
+subsets
+two sum 2- input array is sorted
+binary tree level order traversal
+intersection of two linked lists
+palindrome linked list
+binary tree right side view
+merge two binary trees
+valid anagram
+rotate array
+set matrix zeroes
+min cost climbing stairs
+lowest common ancestor of a binary search tree
+partition labels
+pascal's triangle 2
+baseball game
+gray code
+
+The STAR technique is a common system used to answer behavioral interview questions. 
+You don't use this technique to answer questions like "Tell me about yourself" or "What are you doing now?" 
+It provides a structure for you to remember so that you include the correct data in your answers. 
+
+These are the 4 steps of STAR:
+
+S – Situation - background info
+
+T – Task - what you had to do 
+
+A – Activity - what you did - this should be the longest part of the answer
+
+R – Result - positive; quantifiable; what you learned; what you would do differently next time
+
+Leadership Principles
+1. Customer Obsession
+    Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust.
+    Although leaders pay attention to competitors, they obsess over customers.
+
+    I have worked as Software Engineer at Tech Mahindra(Client- Applied Materials, Santa Clara, CA.) which is one of the top IT services companies of India and besides that 
+    a Fortune 500 company. As part of a company which has stood the test of times and demonstrated consistent devotion when it comes to 
+    customer- Foreign/Local client, I know nothing matters more than customers. Afterall we exist only due to our customers.
+    It was only due to our culture of Customer First that Applied Materials has trusted us for 11 years now since 2007.
+    So, working with senior professionals who have earned customer trust over the years, inculcated that sense of my responsibility 
+    towards our customers.
+
+2. Ownership
+    Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. 
+    They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job". 
+
+    Charity begins at home.
+    Though I have not served at a Managerial position in IT industry, but I learned the value of ownership in my childhood itself from 
+    my father who is now a Senior Project Manager for a construction company. I often heard him saying - "I need to make sure we deliver
+    this project". I just wondered at this beautiful combination of "I" and "we" which conveyed how committed he was for the company.
+    Though unintentionally, but somehow those values got imbibed in me too. That's why even during a time when we unfortunately had to 
+    reduce our team size, I voluntarily stepped up to take additional work assignments to make sure project was delivered on time.
+    It's always easy to give up or turn a blind eye but that's not how you earn someone's trust.
+    The basic notion is- you don't exist in isolation. You actions speak of you company as a whole.
+
+
+3. Invent and Simplify
+    Leaders expect and require innovation and invention from their teams and always find ways to simplify. 
+    They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here". 
+    As we do new things, we accept that we may be misunderstood for long periods of time.
+    One way to innovate an industry is to find a problem that most businesses are ignoring.
+
+"Don't be afraid to solve the hard problems that everyone else avoids," wrote Clear. 
+"There is a lot of money to be made when you're the first person to fix something."
+"Because you have passion and because you can tap into agility, you have a perfect mix to better innovate," 
+Pam Moore, founder of Marketing Nutz, wrote in a blog post. 
+"It doesn't require an intense board meeting to kick off an idea for further research. You can simply plan it and do it."
+
+
+4. Are right, a lot
+    Leaders are right a lot. 
+    They have strong judgment and good instincts. 
+    They seek diverse perspectives and work to disconfirm their beliefs.
+    There are not enough reasons to prove something right but only one valid reason is enough to prove something wrong.
+    So, there is a dire need to exhaustively search for that single reason which can question our belief/thoughts. Bringing in others'
+    persepectives works best. Listen to all, cross-verify your beliefs,decide on some action and take stand for it.
+    As part of practicing competitive coding,I have well cultivated this habit of searching for cases which question my beliefs. Even a 
+    single test case can bring the whole software to its knees. When you work in teams, you cannot afford to be single sided. You might 
+    be right in your own world, but this world is not only your's.
+    e.g.I have frequently faced such situations where I had to decide. Most recent was at my current part time job at EdPlus at ASU, where
+    I was asked to decide if we needed to break a monolithic application into Amazon provided lambda functions.
+    Though I could have readily got away with it by taking some random decision based on my current knowledge, but instead of that I preferred
+    investing some time on reading about case studies of other companies and the architectrual Principles of software development to guide my 
+    plan of action. I realised what havoc would have my hastiness wreaked on the project in the long run.
+
+5. Learn and Be Curious
+    Leaders are never done learning and always seek to improve themselves. 
+    They are curious about new possibilities and act to explore them.
+    When I look at companies like Amazon, Microsoft etc, one thing that has made them survive so long is never-ending learning and 
+    accepting the change. One common pattern that I have closely observed among leaders is that they are lifelong learners and they 
+    always seek to raise the bar for themselves. The director of engineering at EdPlus has over 20 years of experience in IT industry 
+    and still listens patiently to what I learn in college. He then ponders over how my learning can be used at EdPlus. 
+    
+    I could have easily settled in my native country with a decent salary, but the urge to learn about the latest technologies and 
+    developments like AI, Machine Learning in Computer Science, I decided to quit my job and pursue Masters in Computer Science.
+    The thrill in exploring new possibilities and renewing myself is what keeps me going.
+
+6. Hire and Develop the Best
+    Leaders raise the performance bar with every hire and promotion. 
+    They recognize exceptional talent, and willingly move them throughout the organization. 
+    Leaders develop leaders and take seriously their role in coaching others. 
+    We work on behalf of our people to invent mechanisms for development like Career Choice.
+    e.g of How Alochan made me work for different projects and he recognized my talent even though I was not skilled in that particular
+    technology.
+
+7. Insist on the highest standards
+    Leaders have relentlessly high standards - many people may think these standards are unreasonably high. 
+    Leaders are continually raising the bar and drive their teams to deliver high quality products, services and processes. 
+    Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
+
+8. Think Big
+    Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. 
+    They think differently and look around corners for ways to serve customers.
+    Thinking big is what has resulted in companies like Amazon, Microsoft, Tata, Jeep, Volkwagen.
+
+
+9. Bias for action
+    Speed matters in business. Many decisions and actions are reversible and do not need extensive study. 
+    We value calculated risk taking. 
+
+10. Frugality
+    Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. 
+    There are no extra points for growing headcount, budget size or fixed expense.
+
+11. Earn trust
+    Leaders listen attentively, speak candidly, and treat others respectfully. 
+    They are vocally self-critical, even when doing so is awkward or embarrassing. 
+    Leaders do not believe their or their team’s body odor smells of perfume. 
+    They benchmark themselves and their teams against the best.
+
+12. Dive Deep
+    Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. 
+    No task is beneath them.
+
+13. Have Backbone; Disagree and Commit
+    Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. 
+    Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. 
+    Once a decision is determined, they commit wholly.
+
+14. Deliver results
+    Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. 
+    Despite setbacks, they rise to the occasion and never settle.

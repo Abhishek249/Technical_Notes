@@ -1,0 +1,101 @@
+344     Reverse String	61.4%	Easy	
+230     Kth Smallest Element in a BST	47.4%	Medium	
+214	    Shortest Palindrome	25.9%	Hard	
+283     Move Zeroes	52.4%	Easy	
+295     Find Median from Data Stream	31.6%	Hard	
+146     LRU Cache	21.3%	Hard	
+3       Longest Substring Without Repeating Characters	25.0%	Medium	
+4       Median of Two Sorted Arrays	23.9%	Hard	
+11      Container With Most Water	38.7%	Medium	
+21      Merge Two Sorted Lists	43.1%	Easy	
+26      Remove Duplicates from Sorted Array	37.8%	Easy	
+46      Permutations	50.0%	Medium	
+50      Pow(x, n)	26.6%	Medium	
+70      Climbing Stairs	42.0%	Easy	
+206     Reverse Linked List	49.3%	Easy	
+5       Longest Palindromic Substring	25.6%	Medium
+
+1. General Behavioral questions as mentioned in Gdrive document
+• Recruiter tips on https://careers.walmart.com/faqs#faqs-5
+• Strengths and Weaknesses with examples
+• Why walmart?
+- Ans: From what started as a single discount store and grown into the largest retailer in the world over
+        the last 50 years and now has over 11,000 stores in over 50 countries emloying 2 million associates
+        and serving 265 mn customers, Walmart definitely is a big player.
+
+        From an employee's point of view, I think- a company which has been tested by times would be definitely 
+        having a great work culture, a progressive work environment with an equal focus on the happiness of 
+        its associates.
+
+        Also, there would be best of the brains and finest of the professionals working for the company to make
+        it stand where it stands today.
+
+        So, me being still in my intial career stage, I believe Walmart will be an excellent platform to use
+        my technical skills, work directly for the customers and evolve as a holistic professional.
+        
+        As far as working for the Merchant Tech team is concerned, I researched about the team profile 
+        on walmart labs teams page online, ang got to know that this is the team which works for the merchants who trust 
+        walmart to sell their products online. The various aspects of it include online product search, inventory
+        management, cataloging, replenishment and fulfillment. From an engineer's point of view, I got really 
+        interested in one of their case studies which is about CATALOG MATCHING where they are using Distributed Databases,
+        Machine learning at scale to ensure that whenever two or more sellers sell a same product, that product should be enlisted
+        as one entitiy whith all its sellers. This provides a uniform search experience to the customers.
+
+        In fact, this kind of work which brings together Distributed Systems, Machine Learning, Cloud and Big Data is something that
+        I want to get involved in for my next job.
+
+        So these are the reasons I wanna work with Walmart.
+        
+
+• Why Merchant Technology team
+• What kind of teams you like?
+• Questions for interviewer - Their experience in terms of best phases and challenging, 
+                              What are you looking for in a prospective candidate
+                              What kind of work are you doing in the cloud area or cloud based services
+• 
+
+Technical Questions:-
+• Resume
+• Ladder question 3 steps, total number of combinations
+• Java Questions - Interfaces, abstract classes, types of inheritance, collections, stringbuilder vs string, array vs arraylist, == vs EqualsTo
+• Web services - Multithreading in web services and its implementation, REST services,   REST vs SOAP, MVC architecture with example,
+                 HTTP VS HTTPS, How to know if a request is coming from mobile or browser
+• Data Structures - Trees, 
+                    Linkedlist- reverse, midpoint, mergesort, merge in sorted order
+                    Strings(reverse recursively), 
+                    HashMap(Hashcode) vs Dictionaries(implementation)
+• OS: LRU Cache implementation
+• Design patterns - Singleton class, singleton in Multithreaded application
+• JS - closures, diff between == and ===, promise, event loop, setTimeOut(), Async web requests, Async web request
+
+
+
+
+Resume Questions:-
+- Serverless architecture:
+    Serverless architecture also known as Serverless computing or functions as a service is a Software Design Pattern where applications
+    are hosted by a third-party service, thus eliminating the need of server software and hardware management by the developer.
+    Also, the applications are broken into individual functions that can be invoked and scaled individually.
+
+    Why serverless?
+    By adopting the serverless approach, the focus is purely to develop individual functionality in the application code.
+    We can say these functions are self-sufficient entities which communicate with other such entities and thus increase 
+    the modularity in code.
+
+
+    FaaS vs SaaS
+    Though in SaaS too, you deploy your application on 3rd party servers, but you still need to handle the scalability yourself.
+     Whereas 
+    In FaaS, each of the functions is autonomous in the sense that it can be scaled up or scaled down as the frequency call increases.
+    This actually is a very cost effective approach as you pay only for the time your functions are called.
+
+- Single Page applications:-
+    SPAs are web applications which work on the principle of "load page once and then update thereafter". This eliminates the subsequent
+    page reloads because the html file is not sent by the server again. Only the data is sent and it's the responsibility of client to 
+    update the html accordingly.
+    **** How to go back to previous page if app is Single Page Application.
+        Ans:- URL hash technique: e.g. HTML5 History API
+            -    Using local hash: Local hash is whatever comes after # in the url. If we change content after #, that wont trigger
+                page reload.
+
+

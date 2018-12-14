@@ -1,0 +1,11 @@
+This exam https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+Module 1: Domain 1 - Resiliency SQS FAQs: https://aws.amazon.com/sqs/faqs/ ELB 
+FAQs: https://aws.amazon.com/elasticloadbalancing/faqs/ 
+ELB Documentation: https://aws.amazon.com/documentation/elastic-load-balancing/ 
+EIP FAQs: https://aws.amazon.com/ec2/faqs/ 
+Route 53 Documentation: https://aws.amazon.com/documentation/route53/ 
+AWS Well Architected Framework: https://aws.amazon.com/architecture/well-architected/
+Module 2: 
+Domain 2 - 
+Performance Object Lifecycle Management: http://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
