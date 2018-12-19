@@ -16,9 +16,9 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-str
 
 
 ### Final vs Finally vs Finalize, Sealed in C#. Why to make something sealed?
+    - When would you consider using Final?
 
-
-### Multi-threaded programming
+### Multi-threaded programming 
 
 
 ### Static keyword and their presence on heap and stack
@@ -29,3 +29,10 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-str
     - Dynamic Data Types http://net-informations.com/faq/qk/dynamic.htm
 
 ### Access specifiers in C#
+|                    | containing class | derived class | containing assembly | outside assembly |
+| ------------------ | ---------------- | ------------- | ------------------- | ---------------- |
+| Public             | yes              | yes           | yes                 | yes              |
+| Private            | yes              | no            | no                  | no               |
+| Protected          | yes              | yes           | no                  | no               |
+| Internal           | yes              | no            | yes                 | no               |
+| Protected Internal | yes              | yes           | yes                 | no               |
